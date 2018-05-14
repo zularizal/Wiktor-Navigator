@@ -17,7 +17,7 @@
 
 package pl.org.seva.navigator.contact.room
 
-import android.arch.persistence.room.Room
+import androidx.room.Room
 import pl.org.seva.navigator.data.room.migration.AddedColorMigration
 import pl.org.seva.navigator.data.room.migration.LiteToRoomMigration
 import pl.org.seva.navigator.main.context

@@ -17,7 +17,7 @@
 
 package pl.org.seva.navigator.navigation
 
-import android.support.v4.app.FragmentManager
+import androidx.fragment.app.FragmentManager
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.SupportMapFragment
 

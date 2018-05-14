@@ -18,10 +18,10 @@
 package pl.org.seva.navigator.contact
 
 import android.annotation.SuppressLint
-import android.arch.persistence.room.Ignore
 import android.graphics.Color
 import android.os.Parcelable
 import androidx.core.content.edit
+import androidx.room.Ignore
 import kotlinx.android.parcel.IgnoredOnParcel
 import kotlinx.android.parcel.Parcelize
 import pl.org.seva.navigator.contact.Contact.Companion.CONTACT_EMAIL_PROPERTY
