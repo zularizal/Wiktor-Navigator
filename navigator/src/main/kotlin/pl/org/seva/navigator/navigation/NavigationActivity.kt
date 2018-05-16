@@ -33,6 +33,7 @@ import android.view.View
 import android.webkit.WebView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import com.crashlytics.android.Crashlytics
 
 import com.google.android.gms.maps.SupportMapFragment
